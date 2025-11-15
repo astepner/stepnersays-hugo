@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://creative-chaja-132a35.netlify.app/"
 title = "Stepner Says"
 theme = "PaperMod"
 
